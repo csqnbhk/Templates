@@ -1,0 +1,9 @@
+﻿  main.cpp
+d:\msdev98\lib\templates\模版实参的演绎\模版实参的演绎\main.cpp(8): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“S”
+  d:\msdev98\lib\templates\模版实参的演绎\模版实参的演绎\main.cpp(19): note: 参见对正在编译的函数 模板 实例化“void f<S>(T *,const T &)”的引用
+          with
+          [
+              T=S
+          ]
+  模版实参的演绎.vcxproj -> D:\MSDev98\LIB\Templates\模版实参的演绎\Debug\模版实参的演绎.exe
+  模版实参的演绎.vcxproj -> D:\MSDev98\LIB\Templates\模版实参的演绎\Debug\模版实参的演绎.pdb (Full PDB)

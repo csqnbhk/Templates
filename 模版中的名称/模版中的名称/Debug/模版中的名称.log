@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\msdev98\lib\templates\模版中的名称\模版中的名称\main.cpp(53): warning C4101: “a”: 未引用的局部变量
+  模版中的名称.vcxproj -> D:\MSDev98\LIB\Templates\模版中的名称\Debug\模版中的名称.exe
+  模版中的名称.vcxproj -> D:\MSDev98\LIB\Templates\模版中的名称\Debug\模版中的名称.pdb (Full PDB)

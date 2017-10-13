@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\msdev98\lib\templates\实例化\实例化\main.cpp(3): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+d:\msdev98\lib\templates\实例化\实例化\main.cpp(9): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+d:\msdev98\lib\templates\实例化\实例化\main.cpp(10): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+d:\msdev98\lib\templates\实例化\实例化\main.cpp(11): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+d:\msdev98\lib\templates\实例化\实例化\main.cpp(12): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+  实例化.vcxproj -> D:\MSDev98\LIB\Templates\实例化\Debug\实例化.exe
+  实例化.vcxproj -> D:\MSDev98\LIB\Templates\实例化\Debug\实例化.pdb (Full PDB)

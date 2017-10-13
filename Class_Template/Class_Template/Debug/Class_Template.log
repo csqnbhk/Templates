@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\administrator\desktop\templates\class_template\class_template\class.h(19): error C3646: “throws”: 未知重写说明符
+  c:\users\administrator\desktop\templates\class_template\class_template\class.h(30): note: 参见对正在编译的类 模板 实例化“Stack<T>”的引用
+c:\users\administrator\desktop\templates\class_template\class_template\class.h(19): error C2143: 语法错误: 缺少“;”(在“std::exception”的前面)
+c:\users\administrator\desktop\templates\class_template\class_template\class.h(19): error C2208: “std::exception”: 没有使用此类型进行定义的成员

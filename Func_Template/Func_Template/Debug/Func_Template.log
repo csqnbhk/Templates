@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\administrator\desktop\templates\func_template\func_template\function.h(22): warning C4114: 多次使用同一类型限定符
+  Func_Template.vcxproj -> C:\Users\Administrator\Desktop\Templates\Func_Template\Debug\Func_Template.exe
+  Func_Template.vcxproj -> C:\Users\Administrator\Desktop\Templates\Func_Template\Debug\Func_Template.pdb (Full PDB)
